@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+:root {
+  --body-color: #122335;
+  --light-color: #f1f5f9;
+  --flash: #ff6666; /* #0d1a26;*/
+  --link: #ffffff;
+}
+
+.App {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: var(--light-color);
+}
+
+body {
+  background-color: var(--body-color);
+}
+
+small {
+  margin: auto;
+  color: var(--light-color);
+}
+
+.hr {
+  max-width: 750px;
+}
+
+.btn {
+  background-color: var(--light-color);
+  font-family: "Montserrat", sans-serif;
+  margin: 0rem 0.5rem;
+  border-radius: 0.6rem;
+  cursor: pointer;
+  padding: 0.5rem;
+}
+
+.btn:hover {
+  font-weight: bold;
+}
+
+.btnContainer {
+  margin: auto;
+  padding: 2rem 0rem 1rem 1.5rem;
+  max-width: 450px;
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+  cursor: pointer;
+  color: var(--link);
+}
+
+.linkContainer {
+  padding: 0.3rem 0rem;
+  background-color: #b20000;
+  max-width: 110px;
+  margin: auto;
+  border-radius: 0.4rem;
+}
+
+.linkContainer:hover {
+  background-color: var(--flash);
+  font-weight: bold;
+}
+
+.itemimg {
+  border-radius: 1.5rem;
+  padding: 0.5rem;
+}
+
+.listitemContainer {
+  padding: 0.5rem 0rem;
+  background-color: var(--light-color);
+  border-radius: 1rem;
+  margin: 1.5rem 0.5rem;
+}
+
+.listContainer {
+  padding: 1rem 1rem 1.5rem 1rem;
+  max-width: 610px;
+}
+
+.containerCenter {
+  margin: auto;
+  max-width: 700px;
+}
+
+.rating {
+  font-size: small;
+  padding: 0.2rem;
+}
+
+.item-name {
+  font-size: larger;
+  font-weight: bold;
+}
+
+h3 {
+  color: var(--light-color);
+}
