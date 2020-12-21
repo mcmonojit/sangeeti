@@ -44,7 +44,7 @@ small {
 
 .btnContainer {
   margin: auto;
-  padding: 2rem 0rem 1rem 1rem;
+  padding: 2rem 0.5rem 1rem 0.2rem;
   max-width: 450px;
 }
 
@@ -84,7 +84,7 @@ small {
 }
 
 .listContainer {
-  padding: 1rem 0.8rem 1.5rem 0rem;
+  padding: 1rem 1.7rem 1.5rem 0.5rem;
   max-width: 610px;
 }
 
