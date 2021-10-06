@@ -34,7 +34,7 @@ const evergreenClassics = [
   },
   {
     name: "Mere sapnon ki rani",
-    rating: "9/10",
+    rating: "8/10",
     link:
       "https://music.youtube.com/watch?v=UUMoHjsbV1s&list=RDAMVMiVx7za1WEgw",
     img: "https://www.filmmusicsite.com/images/covers/normal/50965-2.jpg"
